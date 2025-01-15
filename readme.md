@@ -1,11 +1,11 @@
 # Intro
-This is a quick demonstration of hot code reloading.
-The setup includes a Docker host, mounting the current directory into the Docker Container.
+This is a quick demonstration of hot code reloading in a docker container.
+The setup includes a Docker host, mounting the current working directory into the Docker Container.
 
 # Requirements
 Have a set up Docker system.
 
-# To Build the container 
+# Build the container 
 
 Run the Command:
 ```docker build -t demo .```
