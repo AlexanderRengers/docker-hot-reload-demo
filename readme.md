@@ -5,6 +5,12 @@ The setup includes a Docker host, mounting the current working directory into th
 # Requirements
 Have a set up Docker system.
 
+## Running in GitHub Codespace
+- Create new venv
+   - `python -m venv myenv`
+   - `source myenv/bin/activate`
+   - `pip install requirements.txt`
+
 # Build the container 
 
 Run the Command:
