@@ -11,7 +11,7 @@ Have a set up Docker system.
    - `source myenv/bin/activate`
    - `pip install requirements.txt`
 
-# Build the container 
+# Build the container f
 
 Run the Command:
 ```docker build -t demo .```
